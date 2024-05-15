@@ -10,8 +10,8 @@
 let getJavascriptNameOfficial = prompt("What is the official name of Javascript?","I don't know");
 
 if (getJavascriptNameOfficial == "ECMAScript") {
-    alert("Right!")
+    alert("Right!");
 }
 else {
-    alert("You don't know? 'ECMAScript'!")
-};
+    alert("You don't know? 'ECMAScript'!");
+}
